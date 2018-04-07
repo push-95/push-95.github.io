@@ -1,1 +1,1 @@
-# https://push-95.github.io
+https://push-95.github.io
